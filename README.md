@@ -45,6 +45,17 @@ A block that moves. Built two years ago. I think it's a cool relic of my coding 
 
 ---
 
+### // stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=eli-rosee&theme=transparent&hide_border=true&ring=6A9955&fire=6A9955&currStreakLabel=6A9955&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="GitHub Streak" />
+
+</div>
+
+---
+
 <div align="center">
 <sub>University of Arkansas · CS · climbing</sub>
 </div>
+
