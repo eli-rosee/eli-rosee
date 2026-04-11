@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6A9955&background=00000000&center=true&vCenter=true&width=560&lines=Senior+CS+student+%40+University+of+Arkansas;Probably+out+climbing+a+rock+somewhere.;Currently+obsessed+with+F1+telemetry.;AI+is+cool.+I%27m+still+trying+to+figure+out+why.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6A9955&background=00000000&center=true&vCenter=true&width=560&lines=Senior+CS+student+%40+University+of+Arkansas;Probably+out+climbing+a+rock+somewhere.;Currently+obsessed+with+F1+telemetry.;AI+is+cool.+I%27m+still+trying+to+figure+out+why.;Perpetually+debating+switching+to+Linux.)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,8 +31,8 @@ Built a full-stack local deployment pipeline from scratch (Docker, Nginx, HTTPS)
 
 ---
 
-**[Rock Paper Scissors — HTML5 Canvas](https://github.com/eli-rosee/paper-and-scissors)**
-Started as a class project. Refactored it into a browser game where scissors shoot at each other and die on impact. It's really stupid and buggy but I find it fun.
+**[Rock Paper Scissors (HTML5 Canvas)](https://github.com/eli-rosee/paper-and-scissors)**
+Started as a class project. Refactored it into a browser game where mean pieces of paper try to kill each other by harnessing the power of scissors. It's really stupid and buggy but I find it fun.
 
 `JavaScript` · `HTML5 Canvas`
 
