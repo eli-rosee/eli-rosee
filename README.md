@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6A9955&background=00000000&center=true&vCenter=true&width=560&lines=Senior+CS+student+%40+University+of+Arkansas;Probably+out+climbing+a+rock+somewhere.;Currently+obsessed+with+F1+telemetry.;Perpetually+debating+switching+to+Linux.;AI+is+cool.+I%27m+still+trying+to+figure+out+why.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6A9955&background=00000000&center=true&vCenter=true&width=560&lines=Senior+CS+student+%40+University+of+Arkansas;Probably+out+climbing+a+rock+somewhere.;Currently+obsessed+with+F1+telemetry.;Perpetually+debating+switching+to+Linux.;)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,16 +42,6 @@ Started as a class project. Refactored it into a browser game where mean pieces 
 A block that moves. Built two years ago. I think it's a cool relic of my coding education.
 
 `GameDev` · `Relic`
-
----
-
-### // stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=eli-rosee&theme=transparent&hide_border=true&ring=6A9955&fire=6A9955&currStreakLabel=6A9955&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="GitHub Streak" />
-
-</div>
 
 ---
 
