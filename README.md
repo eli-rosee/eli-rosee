@@ -18,7 +18,7 @@ Recent grad CS student from the University of Arkansas. I like building things a
 
 Senior capstone project, built with a team of 6. We dig through real F1 racing telemetry data (rpm, gear, brake, throttle, acc_x, acc_y, acc_z) to figure out patterns in driver performance. One I put a lot of work into. 
 
-`Python` · `Telemetry Analysis` · `Data Processing` · `AI/ML`
+`Python` · `Telemetry Analysis` · `Data Processing` · `Machine Learning`
 
 **[evt-technology-challenge](https://github.com/eli-rosee/evt-technology-challenge)**
 
