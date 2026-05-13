@@ -20,6 +20,22 @@ Senior capstone project, built with a team of 6. We dig through real F1 racing t
 
 `Python` · `Telemetry Analysis` · `Data Processing` · `AI/ML`
 
+**[NASA APOD Data Pipeline](https://github.com/eli-rosee/nasa-apod-pipeline)**
+
+Built a web scraping pipeline to extract and structure 5,000+ NASA APOD images with metadata into a normalized SQLite database. Handled inconsistent formatting across legacy website versions to ensure reliable, scalable data collection.
+
+`Python` · `Web Scraping` · `SQLite` · `Data Engineering`
+
+---
+
+### // under development
+
+**[Chess Engine](https://github.com/eli-rosee/chess-engine)**
+
+Building a bitboard-based chess engine from scratch. Currently working on move evaluation and search algorithms.
+
+`C++` · `Bitboards` · `GOFAI` · `Alpha-Beta Pruning`
+
 ---
 
 ### // other things
@@ -29,19 +45,21 @@ Built a full-stack local deployment pipeline from scratch (Docker, Nginx, HTTPS)
 
 `Docker` · `Nginx` · `HTTPS` · `Full-Stack`
 
----
-
 **[Rock Paper Scissors (HTML5 Canvas)](https://github.com/eli-rosee/paper-and-scissors)**
 Started as a class project. Refactored it into a browser game where mean pieces of paper try to kill each other by harnessing the power of scissors. It's really stupid and buggy but I find it fun.
 
 `JavaScript` · `HTML5 Canvas`
 
----
-
 **[2D Movement Game](https://github.com/eli-rosee/2d-movement)**
 A block that moves. Built two years ago. I think it's a cool relic of my coding education.
 
 `GameDev` · `Relic`
+
+---
+
+### // currently reading
+
+[Artificial Intelligence: Foundations of Computational Agents (2023)](https://artint.info/3e/html/ArtInt3e.html) 3rd Edition - David L. Poole, Alan K. Mackworth
 
 ---
 
