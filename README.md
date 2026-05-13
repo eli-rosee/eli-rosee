@@ -46,12 +46,6 @@ Building a bitboard-based chess engine from scratch. Currently working on move e
 
 ### // other things
 
-**[Current Reading](https://artint.info/3e/html/ArtInt3e.html)**
-
-Artificial Intelligence: Foundations of Computational Agents (2023), 3rd Edition - David L. Poole, Alan K. Mackworth
-
-`JavaScript` · `HTML5 Canvas`
-
 **[Rock Paper Scissors (HTML5 Canvas)](https://github.com/eli-rosee/paper-and-scissors)**
 
 Started as a class project. Refactored it into a browser game where mean pieces of paper try to kill each other by harnessing the power of scissors. It's really stupid and buggy but I find it fun.
@@ -78,4 +72,3 @@ A block that moves. Built two years ago. I think it's a cool relic of my coding 
 <div align="center">
 <sub>Thanks for reading! Say hi @ eli.j.rose.04@gmail.com</sub>
 </div>
-
