@@ -20,6 +20,12 @@ Senior capstone project, built with a team of 6. We dig through real F1 racing t
 
 `Python` · `Telemetry Analysis` · `Data Processing` · `AI/ML`
 
+**[evt-technology-challenge](https://github.com/eli-rosee/evt-technology-challenge)**
+
+Built a full-stack local deployment pipeline from scratch (Docker, Nginx, HTTPS) as part of a technical interview challenge. Ended up being a solid deep-dive into some cool tools I hadn't touched before.
+
+`Docker` · `Nginx` · `HTTPS` · `Full-Stack`
+
 **[NASA APOD Data Pipeline](https://github.com/eli-rosee/nasa-apod-pipeline)**
 
 Built a web scraping pipeline to extract and structure 5,000+ NASA APOD images with metadata into a normalized SQLite database. Handled inconsistent formatting across legacy website versions to ensure reliable, scalable data collection.
@@ -40,17 +46,20 @@ Building a bitboard-based chess engine from scratch. Currently working on move e
 
 ### // other things
 
-**[evt-technology-challenge](https://github.com/eli-rosee/evt-technology-challenge)**
-Built a full-stack local deployment pipeline from scratch (Docker, Nginx, HTTPS) as part of a technical interview challenge. Ended up being a solid deep-dive into some cool tools I hadn't touched before.
+**[Current Reading](https://artint.info/3e/html/ArtInt3e.html)**
 
-`Docker` · `Nginx` · `HTTPS` · `Full-Stack`
+Artificial Intelligence: Foundations of Computational Agents (2023), 3rd Edition - David L. Poole, Alan K. Mackworth
+
+`JavaScript` · `HTML5 Canvas`
 
 **[Rock Paper Scissors (HTML5 Canvas)](https://github.com/eli-rosee/paper-and-scissors)**
+
 Started as a class project. Refactored it into a browser game where mean pieces of paper try to kill each other by harnessing the power of scissors. It's really stupid and buggy but I find it fun.
 
 `JavaScript` · `HTML5 Canvas`
 
 **[2D Movement Game](https://github.com/eli-rosee/2d-movement)**
+
 A block that moves. Built two years ago. I think it's a cool relic of my coding education.
 
 `GameDev` · `Relic`
@@ -58,8 +67,11 @@ A block that moves. Built two years ago. I think it's a cool relic of my coding 
 ---
 
 ### // currently reading
+[Artificial Intelligence: Foundations of Computational Agents (2023)](https://artint.info/3e/html/ArtInt3e.html)
 
-[Artificial Intelligence: Foundations of Computational Agents (2023)](https://artint.info/3e/html/ArtInt3e.html) 3rd Edition - David L. Poole, Alan K. Mackworth
+3rd Edition - David L. Poole, Alan K. Mackworth @ Cambridge University Press
+
+`AI` · `Computational Agents` · `Foundations`
 
 ---
 
