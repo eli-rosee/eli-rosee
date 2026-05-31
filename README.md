@@ -60,15 +60,6 @@ A block that moves. Built two years ago. I think it's a cool relic of my coding 
 
 ---
 
-### // currently reading
-[Artificial Intelligence: Foundations of Computational Agents (2023)](https://artint.info/3e/html/ArtInt3e.html)
-
-3rd Edition - David L. Poole, Alan K. Mackworth @ Cambridge University Press
-
-`AI` · `Computational Agents` · `Foundations`
-
----
-
 <div align="center">
 <sub>Thanks for reading! Say hi @ eli.j.rose.04@gmail.com</sub>
 </div>
