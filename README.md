@@ -8,7 +8,7 @@
 
 ### whoami
 
-Recent grad CS student from the University of Arkansas. I like building things and solving hard problems.
+Recent grad CS student from the University of Arkansas. Currently attending Georgia Tech's OMSCS program.
 
 ---
 
@@ -31,16 +31,6 @@ Built a full-stack local deployment pipeline from scratch (Docker, Nginx, HTTPS)
 Built a web scraping pipeline to extract and structure 5,000+ NASA APOD images with metadata into a normalized SQLite database. Handled inconsistent formatting across legacy website versions to ensure reliable, scalable data collection.
 
 `Python` · `Web Scraping` · `SQLite` · `Data Engineering`
-
----
-
-### // under development
-
-**[Chess Engine](https://github.com/eli-rosee/chess-engine)**
-
-Building a bitboard-based chess engine from scratch. Currently working on move evaluation and search algorithms.
-
-`C++` · `Bitboards` · `GOFAI` · `Alpha-Beta Pruning`
 
 ---
 
